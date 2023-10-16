@@ -15,6 +15,8 @@
             int kurso_Kodas = 121;
             string studiju_Programos_Pav = "Viešasis administravimas";
             int atsiskaitytu_Kreditu_Skaicius = 20;
+            string testavimas_pokyciu = null;
+            
 
 
 
